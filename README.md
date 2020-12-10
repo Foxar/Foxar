@@ -1,1 +1,1 @@
-[![Foxar's github stats](https://github-readme-stats.vercel.app/api?username=Foxar?theme=dracula)]
+[![Foxar's github stats](https://github-readme-stats.vercel.app/api?username=Foxar&theme=calm)]
